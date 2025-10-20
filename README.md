@@ -1,5 +1,6 @@
 💳 **Bank – C++ Console Application**
-**Project 3 **
+
+**Project 3**
 A C++ console-based banking client management system — designed for simplicity, efficiency, and learning best programming practices.
 
 ---
